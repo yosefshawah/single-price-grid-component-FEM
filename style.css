@@ -98,7 +98,7 @@ main {
   display: grid;
   align-items: center;
   /* width: 800p x; */
-  width: 80%;
+  width: 50%;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   height: 60%;
